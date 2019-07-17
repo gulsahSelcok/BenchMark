@@ -1,0 +1,15 @@
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\BenchMark\BenchMark\bin\Debug\BenchMark.exe.config
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\BenchMark\BenchMark\bin\Debug\BenchMark.exe
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\BenchMark\BenchMark\bin\Debug\BenchMark.pdb
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\BenchMark\BenchMark\bin\Debug\EntityFramework.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\BenchMark\BenchMark\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\BenchMark\BenchMark\bin\Debug\EntityFramework.xml
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\BenchMark\BenchMark\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\BenchMark\BenchMark\obj\Debug\BenchMark.csprojAssemblyReference.cache
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\BenchMark\BenchMark\obj\Debug\BenchMark.FormBenchWork.resources
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\BenchMark\BenchMark\obj\Debug\BenchMark.Properties.Resources.resources
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\BenchMark\BenchMark\obj\Debug\BenchMark.csproj.GenerateResource.cache
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\BenchMark\BenchMark\obj\Debug\BenchMark.csproj.CoreCompileInputs.cache
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\BenchMark\BenchMark\obj\Debug\BenchMark.csproj.CopyComplete
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\BenchMark\BenchMark\obj\Debug\BenchMark.exe
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\BenchMark\BenchMark\obj\Debug\BenchMark.pdb
